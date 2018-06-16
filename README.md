@@ -1,7 +1,3 @@
-# PSAngularUnitTesting
-This is to learn Unit testing from Pluralsight.
 
-
-Cool #1 
-
-this is from child branch.
+This is readme file.
+Below are the steps to write unit test cases in Angular apps. 
